@@ -8,8 +8,6 @@ I'm a passionate and detail-oriented web developer with experience in creating r
 - 🎯 Interested in: UI/UX, Front-end, Back-end integration
 - 🚀 Always open to learning and collaborating on new projects
 
----
-
 # 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -21,8 +19,6 @@ I'm a passionate and detail-oriented web developer with experience in creating r
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-
----
 
 # Contact 
 
