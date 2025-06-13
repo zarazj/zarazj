@@ -1,4 +1,4 @@
-<h1> Hello World! I'm Zara, a Indonesian Web Developer 
+<h1> Hello World! I'm Zara, a Indonesian Web Developer </h1>
 
 About Me
 
