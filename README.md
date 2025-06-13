@@ -37,7 +37,12 @@ I'm a passionate and detail-oriented web developer with experience in creating r
   </a>
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zarazj&show_icons=true&theme=blue-green" />
