@@ -5,9 +5,6 @@ About Me
 
 I'm a web developer who is learning and growing. I often practice making small projects, and although I'm not very experienced, I always try to learn from my mistakes and am open to trying new things. I'm interested in web development, both in terms of front-end and back-end system logic, and would like to explore both as a full stack developer.
 
-- 💻 Focus: Web Development (HTML, CSS, PHP, SQL, Python)
-- 🎯 Interested in: UI/UX, Front-end, Back-end integration
-- 🚀 Always open to learning and collaborating on new projects
 
 # 💻 Skills:
 
