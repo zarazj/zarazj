@@ -9,9 +9,8 @@ I'm a passionate and detail-oriented web developer with experience in creating r
 - 🚀 Always open to learning and collaborating on new projects
 
 ---
----
 
-### 🧰 Tech Stack
+###  💻 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
