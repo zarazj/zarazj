@@ -12,8 +12,6 @@ I'm a passionate and detail-oriented web developer with experience in creating r
 
 ---
 
-### 📲 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
