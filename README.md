@@ -10,8 +10,6 @@ I'm a passionate and detail-oriented web developer with experience in creating r
 
 ---
 
-# 💻 Tech Stack
-
 # 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -21,10 +19,9 @@ I'm a passionate and detail-oriented web developer with experience in creating r
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-
 ---
 
-
+# Contact 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
