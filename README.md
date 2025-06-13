@@ -34,5 +34,9 @@ I'm a passionate and detail-oriented web developer with experience in creating r
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zarazj&show_icons=true&theme=blue-green" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarazj&layout=compact&theme=blue-green" />
 </p>
