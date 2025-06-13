@@ -1,4 +1,4 @@
-# Hello World!, I'm Zara, a Indonesian Web Developer 👋🏼:
+# Hello World! I'm Zara, a Indonesian Web Developer 👋🏼:
 
 About Me
 
