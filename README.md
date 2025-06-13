@@ -1,12 +1,10 @@
-<h1 align="center">Hi there, I'm Zara</h1>
-
----
+<h1> Hello World! I'm Zara, a Indonesian Web Developer 
 
 About Me
 
 I'm a passionate and detail-oriented web developer with experience in creating responsive and user-friendly web applications. I enjoy working with modern technologies and continuously improving my skills to deliver high-quality solutions.
 
-- 💻 Focus: Web Development (HTML, CSS, PHP, SQL)
+- 💻 Focus: Web Development (HTML, CSS, PHP, SQL, Python)
 - 🎯 Interested in: UI/UX, Front-end, Back-end integration
 - 🚀 Always open to learning and collaborating on new projects
 
