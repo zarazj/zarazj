@@ -30,8 +30,6 @@ I'm a web developer who is learning and growing. I often practice making small p
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank" title="Twitter">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto: zarazj196@gmail.com" title="Email">
