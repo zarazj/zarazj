@@ -22,21 +22,21 @@ I'm a web developer who is learning and growing. I often practice making small p
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.tiktok.com/@your-tiktok" target="_blank" title="TikTok">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" width="40" alt="TikTok"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/your-instagram/" target="_blank" title="Instagram">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank" title="Twitter">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" alt="Twitter"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yourmail@example.com" title="Email">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
-  </a>
+  <a href="https://www.tiktok.com/@your-tiktok" target="_blank" title="TikTok">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" width="30" alt="TikTok"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/your-instagram/" target="_blank" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your-twitter" target="_blank" title="Twitter">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yourmail@example.com" title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/>
+  </a>
 </p>
 
 
