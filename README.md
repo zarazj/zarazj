@@ -4,7 +4,6 @@
 
 I'm a web developer who is learning and growing. I often practice making small projects, and although I'm not very experienced, I always try to learn from my mistakes and am open to trying new things. I'm interested in web development, both in terms of front-end and back-end system logic, and would like to explore both as a full stack developer.
 
----
 
 ## 💻 Skills
 
@@ -19,7 +18,6 @@ I'm a web developer who is learning and growing. I often practice making small p
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
 ## 📫 Let's Connect
 
@@ -41,7 +39,6 @@ I'm a web developer who is learning and growing. I often practice making small p
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
